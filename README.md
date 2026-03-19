@@ -1,21 +1,20 @@
-## *Belisarius xambeui*: genome annotation
+# *Belisarius xambeui*
+## Data availability 
+
+Genome sequencing data have been submitted to the European Nucleotide Archive (ENA) (https://www.ebi.ac.uk/ena/browser/home) under the umbrella study [PRJEB54934](https://www.ebi.ac.uk/ena/browser/view/PRJEB54934), including [PRJEB54932](https://www.ebi.ac.uk/ena/browser/view/PRJEB54932) (raw sequencing data) and, [PRJEB54933](https://www.ebi.ac.uk/ena/browser/view/PRJEB54933) (chromosome-level genome assembly. The genome assembly is also accessible through NCBI ([GCA_982267015.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_982267015.1/)).  
+
+### Genome annotation
 - Pending.
 
-## *Belisarius xambeui*: mitochondrial annotation
-- Here, we report the mitochondrial genome assembly and annotation for the *Belisarius xambeui* scorpion.
+### Mitochondrial genome annotation
+- The mitochondrial genome assembly and annotation for the *B. xambeui* scorpion is [included](https://github.com/molevol-ub/Belisarius_xambeui/tree/main/Mitochondrial_genome).
 
-```
-Belisarius_xambeui/Mitochondrial_genome
-├── Belisarius_xambeui_annotation.gff
-└── Belisarius_xambeui_mtDNA.fasta
-```
+### Voucher
+- Deposited at the Centre de Recursos de Biodiversitat Animal of the Universitat de Barcelona. Codes: *Pending*.
 
 ## Citation
 
-Guirao-Rico S*, Pisarenco VA*, Escuer P, Balart-García P, Domènech M, Bellvert A, Adrián-Serrano S, Sánchez-Gracia A, Arnedo MA#, Rozas J#
-ERGACBP chromosome-level genome assembly of the blind scorpion Belisarius xambeui Simon, 1879 (Belisariidae, Scorpiones), a singular scorpion in Europe.
+Guirao-Rico S<sup>\*</sup> , Pisarenco VA<sup>\*</sup>, Escuer P, Balart-García P, Domènech M, Bellvert A, Adrián-Serrano S, Sánchez-Gracia A, Arnedo MA<sup>\#</sup>, Rozas J<sup>\#</sup>
+ERGA-CBP chromosome-level genome assembly of the blind scorpion *Belisarius xambeui* Simon, 1879 (Belisariidae, Scorpiones), a singular scorpion in Europe. Journal: *Pending*.
 
-Pending.
-
-*, Equal contribution
-#, corresponding authors
+<sup>\*</sup>, Equal contribution; <sup>\#</sup>, corresponding authors
