@@ -1,5 +1,7 @@
-## Belisarius xambeui: Genome annotation
-- In progress.
+## Belisarius xambeui: genome annotation
+- Pending.
+
+## Belisarius xambeui: mitochondrial annotation
 - Here, we report the mitochondrial genome assembly and annotation for the *Belisarius xambeui* scorpion.
 
 ```
