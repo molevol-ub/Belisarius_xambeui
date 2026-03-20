@@ -10,7 +10,7 @@ Genome sequencing data have been submitted to the European Nucleotide Archive (E
 - The mitochondrial genome assembly and annotation for the *B. xambeui* scorpion is [included](https://github.com/molevol-ub/Belisarius_xambeui/tree/main/Mitochondrial_genome).
 
 ### Voucher
-- Deposited at the Centre de Recursos de Biodiversitat Animal of the Universitat de Barcelona. Codes: *Pending*.
+- Deposited at the Centre de Recursos de Biodiversitat Animal of the Universitat de Barcelona. Codes: MZB2026-0200 and MZB2026-0201.
 
 ## Citation
 
